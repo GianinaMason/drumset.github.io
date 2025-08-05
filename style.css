@@ -1,6 +1,6 @@
 
 body {
-   background-image: url("/images/drumset.png");
+   background-image: url("drumset.png");
     background-size: cover;
 
     text-align: center;
@@ -35,3 +35,4 @@ body {
     margin-top: 10px;
     display: block;
 }
+
